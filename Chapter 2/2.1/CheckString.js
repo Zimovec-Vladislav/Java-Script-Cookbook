@@ -1,3 +1,3 @@
-if (typeof unknownVariable === 'string' && unknownVariable.length > 0) {
+if (typeof unknownVariable === 'string' && unknownVariable.trim().length > 0) {
     
 }
